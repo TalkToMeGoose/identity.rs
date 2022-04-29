@@ -55,6 +55,10 @@ name = "account_create_vp"
 path = "account/create_vp.rs"
 
 [[example]]
+name = "account_deactivate"
+path = "account/deactivate.rs"
+
+[[example]]
 name = "resolve_history"
 path = "low-level-api/resolve_history.rs"
 
