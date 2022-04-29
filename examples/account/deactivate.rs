@@ -47,7 +47,7 @@ pub async fn run() -> Result<()> {
 
   // The resolved DID Document should now not contain any methods.
   println!(
-    "Resolved DID Document after removing the last verification method: {:#?}",
+    "Resolved DID Document after removing the last signing method: {:#?}",
     account.resolve_identity().await?
   );
 
