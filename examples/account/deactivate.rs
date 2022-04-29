@@ -45,14 +45,14 @@ pub async fn run() -> Result<()> {
   // Force the account to overwrite the managed DID Document with the new DID Document
   account.update_document_unchecked(new_document).await?;
 
+  // The resolved DID Document should now not contain any methods.
   println!(
     "Resolved DID Document after removing the last verification method: {:#?}",
     account.resolve_identity().await?
   );
 
-  // The last signing method has been deleted from the Tangle. Now we also remove the identity from the storage.
-
-  // Retain the DID before deleting the account.
+  // We now want to remove the identity from our local storage,
+  // but first we retain a copy of the DID so we can later resolve the history of the corresponding DID Document.
   let did: IotaDID = account.did().clone();
   account.delete_identity().await?;
 
