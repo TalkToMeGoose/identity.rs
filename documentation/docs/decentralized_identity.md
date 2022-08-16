@@ -12,9 +12,9 @@ keywords:
 
 ![IOTA Decentralized Identity](/img/Banner/banner_decentralized_identity.svg)
 
-Decentralized Identity or Self-Sovereign Identity (SSI) defines a new method for identity management and authentication. It removes the centralized aspects and puts the Identity subject in full control over its own identity. Decentralized Identity provides a solution for the increasing amount of database breaches, the lack of trust in any digital setting, and the increasingly difficult to comply with privacy legislation, such as GDPR.
+Decentralized Identity or Self-Sovereign Identity (SSI) defines a new method for identity management and authentication. It removes the centralized aspects and puts the Identity subject in full control over its own identity. Decentralized Identity provides a solution for the increasing amount of database breaches, the lack of trust in any digital setting, and the increasing difficultly in complying with privacy legislation, such as GDPR.
 
-There are three levels of privacy when interacting on the internet: full privacy, verifiable identities, and pseudonymity. With full privacy, neither parties, nor observers, can identify the interacting parties. With verifiable identities, parties can trust each other because they can both provide proof about their identities. With pseudonymity, both parties recognize each other through a pseudonymous identifier. Pseudonymity is the default setting of the internet. However, data harvesting platforms, like
+There are three levels of privacy when interacting on the internet: full privacy, verifiable identities, and pseudonymity. With full privacy, neither parties nor observers can identify the interacting parties. With verifiable identities, parties can trust each other because they can both provide proof about their identities. With pseudonymity, both parties recognize each other through a pseudonymous identifier. Pseudonymity is the default setting of the internet. However, data harvesting platforms, like
 Google and Facebook, can now link these “random” identifiers, though imprecisely, to identities in the real world. The associated data and insights have become extremely valuable to advertising agencies, product developers, and numerous local and global businesses.
 
 The need for verifiable personal information can be fulfilled by digital identity. Digital identity allows users to bridge the gap between the online and the real world. When users provide personal information to someone online, in a “Bring Your Own Identity” (BYOI) manner, they will be able to prove that their personal information is perfectly accurate. Whereas in the current system, where companies like Google and Facebook provide an estimation of identity, there can be insufficient depth to user profiles or, in some cases, the information is altogether false.
@@ -27,7 +27,7 @@ With digital identity, the user can decide what information to share and with wh
 
 :::note 
 
-IOTA Identity builds a new internet, without usernames, passwords, endless repeated forums, or uncontrolled data harvesting.
+IOTA Identity builds a new internet without usernames, passwords, endless repeated forums, or uncontrolled data harvesting.
 
 :::
 
@@ -35,7 +35,7 @@ Information about anyone's life is spread across many locations. Most people hav
 
 Self-Sovereign Identity is about returning autonomy and privacy to the individual, while also improving our online experience. Some movements focus on data privacy, preventing companies from using our information altogether, but with the IOTA Identity framework you control which part of the information you want to reveal. The user can create a single online profile containing all our personal information. They can decide who they share what information with, and a Verifier checks if the information is correct, making the data trustworthy. This moves their online profile from a statistical estimation by corporate entities to an accurate and verifiable profile under their own control.
 
-IOTA Identity allows a new internet without usernames, passwords, endless repeated forms, or data harvesting. Users have ultimate control and can choose to supply service providers with their personal data, who in return provide personalized experiences. Data will still flow, and perhaps even more than before, but it will always be in the interest of the individual, instead of a corporation. People will gain additional benefits in sharing their data, either in monetary value or improved customer experience. This sort of system is not possible in a non-neutral environment such as permissioned or fee-based ledgers.
+IOTA Identity enables a new internet without usernames, passwords, endless repeated forms, or data harvesting. Users have ultimate control and can choose to supply service providers with their personal data, who in return provide personalized experiences. Data will still flow, and perhaps even more than before, but it will always be in the interest of the individual, instead of a corporation. People will gain additional benefits in sharing their data, either in monetary value or improved customer experience. This sort of system is not possible in a non-neutral environment such as permissioned or fee-based ledgers.
 
 Governmental mechanisms for building digital identities are currently being established throughout Europe and Asia, with demand increasing around the globe. However, they are managed by single entities and restricted to the governments that created them. By decentralizing a framework for these standards to adapt to, we have a system for intergovernmental verification of individuals and devices. A person’s digital identification will be transferable across borders like a passport. However, it will no longer require the trust of the issuing government due to the digital trust established by the open and auditable system.
 
